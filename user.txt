@@ -1,0 +1,9 @@
+<html>
+<body bgcolor="ash">
+<center>
+username:<input type="textbox"></br>
+password:<input type="textbox></br>
+<input type="button" value="sunmit">
+</center>
+</body>
+</html>
